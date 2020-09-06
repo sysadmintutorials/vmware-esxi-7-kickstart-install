@@ -10,7 +10,7 @@
 
 This script automates the install of VMware ESXi 7.0. Please head on over to my Youtube step-by-step instructional video which easily guides you how to boot your ESXi 7.0 installation in order to utilize this install script.
 
-Youtube Video: https://youtu.be/AQLFQW0GvV0
+Youtube Video: https://youtu.be/O0Xt_YrLrBA
 
 ## File Listing & Description
 ks.cfg (VMware ESXi 7.0 Kickstart installation script)
